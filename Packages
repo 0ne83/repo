@@ -1,0 +1,15 @@
+Package: com.dev0ne83.betterwifi
+Version: 0.0~beta5a
+Architecture: iphoneos-arm
+Maintainer: dev0ne83
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.dev0ne83.goodwifi_0.0~beta5a_iphoneos-arm.deb
+Size: 152556
+Section: Tweaks
+Homepage: http://twitter.com/hamadaies
+Description: Better WiFi Preferences
+Author: dev0ne83
+Depiction: https://dev0ne83.github.io/repo/depictions/?p=com.dev0ne83.betterwifi
+Icon: file:///Library/PreferenceBundles/GoodWiFiSettings.bundle/icon@2x.png
+Name: BetterWiFi
+
