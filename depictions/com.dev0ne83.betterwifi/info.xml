@@ -1,7 +1,7 @@
 <package>
-	<id>com.dev0ne83.adblock</id>
-	<name>adblock</name>
-	<version>0.2</version>
+	<id>com.dev0ne83.betterwifi</id>
+	<name>betterwifi</name>
+	<version>0.0~beta5a</version>
 	<compatibility>
 		<firmware>
 			<miniOS>7.0</miniOS>
@@ -10,10 +10,10 @@
 	<dependencies>
 		<package>mobilesubstrate</package>
 	</dependencies>
-	<shortDescription>adblocker </shortDescription>
+	<shortDescription>betterwifi </shortDescription>
 	<descriptionlist>
-		<description>This is an package will full depictions.</description>
-		<description>It has more description lines.</description>
+		<description>Better wifi pref</description>
+		<description>.</description>
 		<description><![CDATA[
 		You can also have<br/> 
 		a multi-line item.
